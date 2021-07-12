@@ -1,0 +1,18 @@
+{
+  "total_count": 3046,
+  "incomplete_results": false,
+  "items": [
+    {
+      "name": "Alamofire",
+      "html_url": "https://github.com/Alamofire/Alamofire"
+    },
+    {
+      "name": "AlamofireImage",
+      "html_url": "https://github.com/Alamofire/AlamofireImage"
+    },
+    {
+      "name": "AlamofireObjectMapper",
+      "html_url": "https://github.com/tristanhimmelman/AlamofireObjectMapper"
+    }
+    ]
+}
